@@ -1,1 +1,1 @@
-# vc-bot-amino-a-bot-that-invites-you-to-a-voice-chat-
+# vc-bot-amino-bot(that invites you to a voice chat)
